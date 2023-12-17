@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Weather Data",
+    "text": "Monitoring and processing the data from Sencrop, Darksky and various other technologies that we operate daily."
+  },
+  {
+    "title": "Satellite & Drones",
+    "text": "Enhancing the efficiency of your work through automation, reducing man-power."
+  },
+  {
+    "title": "IoT",
+    "text": "Building various alerts & notifications systems, along with LTE NB-IoT MQTT Connections. We do provide every technology you need."
+  },
+  {
+    "title": "Farm Maps",
+    "text": "Constructing the automatic maps for your crop fields with your historical data, visualisation and analysis processes."
+  }
+]

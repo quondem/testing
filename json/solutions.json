@@ -1,0 +1,20 @@
+[
+  {
+    "id": "01",
+    "title": "Indoor vertical farming.",
+    "text": "By applying data visualisation, MASH networks and a whole wide range of other technologies, we strive to build an effective system for indoor farm industruies. JetRuby engineers are excelled in flexible architechture systems specialised to integrate solutions with SaaS platforms for data-driven decisions.",
+    "img": "/contents/solutions/solution-1.png"
+  },
+  {
+    "id": "02",
+    "title": "Crop Fields Solutions.",
+    "text": "We do develop farm applications that allow stakeholders a complete and yet simple control over field management, accounting, machine maintenance, crop management and many more.",
+    "img": "/contents/solutions/solution-2.png"
+  },
+  {
+    "id": "03",
+    "title": "Animal Husbandary Technologies.",
+    "text": "Our team always build a simple and a singular system that is able to track, collect and analyse the healthcare processes of your animal husbandary. We also produce an autonomous AI system that analyses the animal crop disease outbreaks.",
+    "img": "/contents/solutions/solution-3.png"
+  }
+]

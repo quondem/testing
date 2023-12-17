@@ -1,0 +1,8 @@
+{
+    "url": "/testing",
+    "front": [
+        "header",
+        "testing",
+        "footer"
+    ]
+}
